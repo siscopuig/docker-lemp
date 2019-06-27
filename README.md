@@ -1,4 +1,4 @@
-# Nginx PHP MySQL
+# LEMP Stack
 
 Docker running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
 
